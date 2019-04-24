@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+#http://gene.github.io
+## Bem-vindo às páginas do GitHub
 
 Você pode usar o [editor on GitHub](https://github.com/genecharles/gene.github.io/edit/master/README.md) para manter e visualizar o conteúdo do seu site nos arquivos Markdown.
 
