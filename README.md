@@ -1,21 +1,20 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/genecharles/gene.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Você pode usar o [editor on GitHub](https://github.com/genecharles/gene.github.io/edit/master/README.md) para manter e visualizar o conteúdo do seu site nos arquivos Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Sempre que você se comprometer com este repositório, as páginas do GitHub serão executadas [Jekyll](https://jekyllrb.com/) para reconstruir as páginas do seu site, a partir do conteúdo dos arquivos do Markdown.
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown é uma sintaxe leve e fácil de usar para estilizar sua escrita. Inclui convenções para
 
 ```markdown
-Syntax highlighted code block
+bloco de código destacado de sintaxe
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
+- Com marcadores
 - List
 
 1. Numbered
@@ -26,12 +25,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para mais detalhes veja [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/genecharles/gene.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+O site do Pages usará o layout e os estilos do tema Jekyll que você selecionou em seu [repository settings](https://github.com/genecharles/gene.github.io/settings). O nome desse tema é salvo no Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Está com problemas com o Pages? Confira nossa [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) e nós ajudaremos você a resolver isso.
